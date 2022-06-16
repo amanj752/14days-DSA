@@ -6,6 +6,8 @@ Day one:
     <tr>
       <th scope="col">Program</th>
       <th scope="col">Resource</th>
+      <th scope="col">code</th>
+       <th scope="col">Video</th>
     </tr>
   </thead>
   <tbody>
