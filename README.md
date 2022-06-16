@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 14days-DSA
 
 Day one: 
@@ -16,3 +17,6 @@ Day one:
 
   </tbody>
 </table>
+=======
+# 14-days-DSA
+>>>>>>> b1eada9e181bd82259ab9c67b01c585bbaec0a37
