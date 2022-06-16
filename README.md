@@ -12,6 +12,7 @@ Day one:
     <tr>
       <td>67. Add Binary </td>
       <td>1. https://bit.ly/39r3uJC</td>
+      <td>2. https://bit.ly/3MWY5rm</td>
     </tr>
 
   </tbody>
