@@ -1,6 +1,6 @@
 # 14days-DSA
 
-<img src="image.png">
+<img src="![image](https://user-images.githubusercontent.com/71320553/174425926-b1c3f252-450b-4620-a209-e9ddf6db1e4d.png)">
 
 Day one: 
 <table class="table">
