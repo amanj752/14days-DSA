@@ -36,7 +36,7 @@ Day one:
       <td>168. Excel Sheet Column Title</td>
       <td>1. https://bit.ly/39r3uJC </br>2. https://bit.ly/3OiYtlf</td>
       <td>1. https://bit.ly/3MWY5rm</td>
-       <td>1. </td>
+       <td>1.</td>
     </tr>
   </tbody>
 </table>
