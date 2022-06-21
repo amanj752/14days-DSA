@@ -3,7 +3,6 @@
 
 ![image](https://user-images.githubusercontent.com/71320553/174425973-ceab751e-e1f1-4c58-a56c-ac422927e3e9.png)
 
-Day one: 
 <table class="table">
   <thead class="thead-light">
     <tr>
