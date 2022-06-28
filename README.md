@@ -1,6 +1,5 @@
 #14days-DSA
 
-
 ![image](https://user-images.githubusercontent.com/71320553/174425973-ceab751e-e1f1-4c58-a56c-ac422927e3e9.png)
 
 <table class="table">
@@ -35,7 +34,7 @@
       <td>168. Excel Sheet Column Title</td>
       <td>1. https://bit.ly/39r3uJC </br>2. https://bit.ly/3OiYtlf</td>
       <td>1. https://bit.ly/3MWY5rm</td>
-       <td>1.</td>
+       <td></td>
     </tr>
   </tbody>
 </table>
