@@ -1,8 +1,5 @@
 
-
-
-
-            class Solution {
+class Solution {
             public:
                 ListNode* middleNode(ListNode* head) {
                     ListNode *a,*c;
